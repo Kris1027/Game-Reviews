@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Trade+Winds&display=swap');
+
+/*
+font-family: 'Roboto', sans-serif;
+font-family: 'Trade Winds', cursive;
+*/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+}
+
+.navbar-brand {
+
+    font-family: 'Trade Winds', cursive;
+    font-size: 250%;
+}
+
+.fb i:hover {
+
+    color: #833AB4;
+}
