@@ -1,22 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Trade+Winds&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Sono:wght@400;500;700&display=swap');
 
 /*
 font-family: 'Roboto', sans-serif;
-font-family: 'Trade Winds', cursive;
+font-family: 'Sono', sans-serif;
 */
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: black;
+    background: black;
 }
 
-.navbar-brand {
+.logo {
 
-    font-family: 'Trade Winds', cursive;
-    font-size: 250%;
-}
-
-.fb i:hover {
-
-    color: #833AB4;
+    font-family: 'Sono', sans-serif;
+    font-size: 220%;
+    font-weight: 700;
 }
